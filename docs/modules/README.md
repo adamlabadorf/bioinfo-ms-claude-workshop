@@ -21,8 +21,13 @@ order — each builds on the last.
 ## Presentation & background materials
 
 - **Slides:** [`docs/slides/`](../slides/) — Marp decks for live sessions
-  (render with `marp docs/slides/00-getting-started.md` or the "Marp for VS
-  Code" extension). Module 0's deck is written.
+  (render with `marp docs/slides/<file>.md` or the "Marp for VS Code"
+  extension). Written so far:
+  - [`preliminaries.md`](../slides/preliminaries.md) — accounts, tools, and
+    concepts (git, GitHub, forking, cloning, the terminal, Python, Claude Code)
+    to have in place *before* Module 0.
+  - [`00-getting-started.md`](../slides/00-getting-started.md) — the Module 0
+    session deck.
 - **Background:**
   [`docs/background/llms-and-the-loop.md`](../background/llms-and-the-loop.md) —
   a self-paced primer on LLMs, agents, and the loop.
