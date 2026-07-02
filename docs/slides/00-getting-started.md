@@ -15,7 +15,10 @@ style: |
   h1 { color: #0b5cad; }
   h2 { color: #0b5cad; }
   a  { color: #0b5cad; }
-  code { background: #eef2f7; padding: 0 .3em; border-radius: 4px; }
+  /* Gaia colors bold text yellow by default — override to a dark, high-contrast
+     tone so the bold weight itself carries the emphasis and stays readable. */
+  strong, b { color: #0b3d6b; }
+  code { background: #eef2f7; padding: 0 .3em; border-radius: 4px; color: #1d1d1f; }
   table { font-size: 22px; }
   .loop {
     font-size: 30px; font-weight: 700; text-align: center;
