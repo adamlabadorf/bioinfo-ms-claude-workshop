@@ -53,6 +53,9 @@ workshop is also one of its lessons:
 
 ## Going deeper
 
+- **New to git, GitHub, forks, or the terminal?** Start with the preliminaries
+  deck: [`docs/slides/preliminaries.md`](../slides/preliminaries.md) — the
+  accounts, tools, and concepts to have in place before this module.
 - **Presentation deck** (for the live session):
   [`docs/slides/00-getting-started.md`](../slides/00-getting-started.md) — a
   Marp deck covering the concept, LLM background, and the loop.
